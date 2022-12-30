@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <UserData/>
+    <UserData />
   </div>
 </template>
 
@@ -10,8 +10,8 @@ import UserData from "./components/UserData.vue";
 export default {
   name: "App",
   components: {
-    UserData
-  }
+    UserData,
+  },
 };
 </script>
 
